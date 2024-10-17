@@ -1,0 +1,14 @@
+node_modules/
+
+cypress/screenshots/
+cypress/videos/
+
+.sensitive/
+*.log
+tmp/
+
+*.code-workspace
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
